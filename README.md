@@ -1,3 +1,3 @@
 # article-theme
 
-Preview: https://morkisz.github.io/article-theme/
+Preview: https://varmints.github.io/article-theme/
